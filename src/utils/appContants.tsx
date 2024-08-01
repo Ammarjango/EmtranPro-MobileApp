@@ -1,0 +1,17 @@
+export const colors = {
+  turquoise: '#1EBEB6',
+  turquoiseLight: 'rgba(30, 190, 182, 0.05)',
+  turquoiseDark: '#158781',
+  tableBorder: '#1EBEB629',
+  grey: '#575656',
+  greyDark: '#6B6B6B',
+  borderColor: '#CCCCCC',
+  backgroundColor: '#FAFAFA',
+  white: '#FFFFFF',
+  black: '#000000',
+  blackDark: '#393939',
+  lightBlack: '#393939',
+  red: '#BE311E',
+  turqioiseOpacity: '#1EBEB60F',
+  whiteOpacity: 'rgba(255, 255, 255, 0.5)',
+};
